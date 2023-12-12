@@ -1,0 +1,95 @@
+traders:
+  bot1:
+    id: "bot1"
+    name: "Just Bob"
+    funds: 10450
+    ownedShares:
+      NVDA: 3
+      AMD: 23
+      AAPL: 15
+      ADBE: 1
+      FB: 3
+  bot2:
+    id: "bot2"
+    name: "Bert Macklin FBI"
+    funds: 9999999
+    ownedShares:
+      INTC: 9874
+      MSFT: 10923
+      TSLA: 134
+      ADBE: 1249
+      FB: 103985
+  bot3:
+    id: "bot3"
+    name: "Bob Johnson"
+    funds: 120000
+    ownedShares:
+      NVDA: 35
+      AMD: 35
+      AAPL: 83
+      INTC: 456
+      MSFT: 83
+      TSLA: 38
+      FB: 17
+  bot4:
+    id: "bot4"
+    name: "John Bobson"
+    funds: 150000
+    ownedShares:
+      NVDA: 35
+      AMD: 35
+      MSFT: 83
+      TSLA: 38
+      ADBE: 72
+      FB: 17
+  bot5:
+    id: "bot5"
+    name: "Kip Hackman"
+    funds: 1000
+    ownedShares:
+      NVDA: 4
+      AMD: 6
+      AAPL: 23
+      INTC: 8
+      TSLA: 5
+      ADBE: 7
+      FB: 13
+  bot6:
+    id: "bot6"
+    name: "NoobMaster69"
+    funds: 69420
+    ownedShares:
+      NVDA: 42
+      AMD: 47
+  bot7:
+    id: "bot7"
+    name: "Ben Dover"
+    funds: 6000000
+    ownedShares:
+      NVDA: 234
+      AMD: 7654
+      AAPL: 2345
+      INTC: 6134
+      MSFT: 7653
+      TSLA: 234
+      ADBE: 543
+      FB: 164
+  bot8:
+    id: "bot8"
+    name: "Lorenzo von Matterhorn"
+    funds: 10000000
+    ownedShares:
+      NVDA: 4250
+      AMD: 643
+      AAPL: 23423
+      INTC: 9874
+      MSFT: 3453
+      TSLA: 54645
+      ADBE: 234
+      FB: 234
+  bot9:
+    id: "bot9"
+    name: "B. Nugel"
+    funds: 1
+    ownedShares:
+      AOOP: 60000
