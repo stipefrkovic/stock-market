@@ -11,7 +11,7 @@
 
 ## About
 
-This project was done by Stipe Frkovic and Phuong-Nam Nguyen as a part of the Advanced Object Oriented Programming course.
+This project was done by Stipe Frkovic and Phuong-Nam Nguyen as a part of the Advanced Object Oriented Programming course at the University of Groningen.
 
 Over the course of the ACU (AOOP Cinematic Universe), we did the following:
 
