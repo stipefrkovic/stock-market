@@ -1,10 +1,6 @@
-<br />
-<p align="center">
-  <h1 align="center">Stock Market Simulation</h1>
+# Stock Market Simulation
 
-  <p align="center">
-    Simulation of a networked stock market with an exchange, stocks, traders, and orders.  </p>
-</p>
+Simulation of a networked stock market with an exchange, stocks, traders, and orders.  </p>
 
 ![Screenshot](images/screenshot.png)
 
