@@ -7,7 +7,7 @@ Simulation of a networked stock market with an exchange, stocks, traders, and or
 
 ## About
 
-This project was done by Stipe Frkovic and Phuong-Nam Nguyen as a part of the Advanced Object Oriented Programming course at the University of Groningen.
+This project was done by Phuong-Nam Nguyen and me as a part of the Advanced Object Oriented Programming course at the University of Groningen.
 
 Over the course of the ACU (AOOP Cinematic Universe), we did the following:
 
